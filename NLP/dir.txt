@@ -1,0 +1,8 @@
+Analisys	  SentenceExtraction
+Claasificatiom	  SpeakerRecognition
+Generation	  SpeechRecognition
+Gpt_Bert_T5	  Summarization
+Image_Captioning  dir.txt
+NER		  speaker_recognition_using_cnn.ipynb
+README.md	  text_classification_from_scratch_keras_io.ipynb
+Segmentation
