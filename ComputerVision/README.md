@@ -1,5 +1,6 @@
 # Computer Vision
 - Classification
+- Clustering
 - Object Detection
 - Segmentation
 - Face Recognition
