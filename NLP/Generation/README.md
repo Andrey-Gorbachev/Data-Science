@@ -1,7 +1,5 @@
 # Text Generation
-- seq2seq Завораживающий пример  Calculator
-- Очень неплохой chat-bot "болталка" с интенсива SkillBox (хотя по архитектуре это Classification)
-- seq2seq/attention Переводчик Seq2seq Mechanism Attention Translation
-- transformer см в разделе NLP/Image Captioning
-
-
+- seq2seq Р—Р°РІРѕСЂР°Р¶РёРІР°СЋС‰РёР№ РїСЂРёРјРµСЂ  Calculator
+- РћС‡РµРЅСЊ РЅРµРїР»РѕС…РѕР№ chat-bot "Р±РѕР»С‚Р°Р»РєР°" СЃ РёРЅС‚РµРЅСЃРёРІР° SkillBox (С…РѕС‚СЏ РїРѕ Р°СЂС…РёС‚РµРєС‚СѓСЂРµ СЌС‚Рѕ Classification)
+- seq2seq/attention РџРµСЂРµРІРѕРґС‡РёРє Seq2seq Mechanism Attention Translation
+- transformer СЃРј РІ СЂР°Р·РґРµР»Рµ NLP/Image Captioning

@@ -1,4 +1,3 @@
 # Text Classification
 - IMDB movie review sentiment classification - Keras.io example
-- Очень неплохой chat-bot "болталка" с интенсива SkillBox (смотрите в разделе Generation - по функционалу больше подходит  в раздел Text Generation)
-
+- РћС‡РµРЅСЊ РЅРµРїР»РѕС…РѕР№ chat-bot "Р±РѕР»С‚Р°Р»РєР°" СЃ РёРЅС‚РµРЅСЃРёРІР° SkillBox (СЃРјРѕС‚СЂРёС‚Рµ РІ СЂР°Р·РґРµР»Рµ Generation - РїРѕ С„СѓРЅРєС†РёРѕРЅР°Р»Сѓ Р±РѕР»СЊС€Рµ РїРѕРґС…РѕРґРёС‚  РІ СЂР°Р·РґРµР» Text Generation)
