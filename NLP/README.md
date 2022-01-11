@@ -6,6 +6,7 @@
 - NER	(RNN, transformer)
 - Sentence Extraction (gensim.topic, gensim.similarity)
 - Speaker Recognition (SpeechBrain, CNN)
+- Summarization (Transformers)
 
 
   
