@@ -3,6 +3,7 @@
 - Computer Vision
 - Natural Language Processing
 - Regression
+- Clustering
 
 
   
